@@ -3,7 +3,7 @@
 
 ## Tower of Hanoi
 此影片將會展示 5 個盤子的河內塔過程，並且有程式碼實作，以及步驟分析。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fEbUzrgLLeA?si=or2qD2jSUeH3k4Tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Tower of Hanoi](https://img.youtube.com/vi/fEbUzrgLLeA/0.jpg)](https://www.youtube.com/watch?v=fEbUzrgLLeA "Tower of Hanoi")
 
 
 ## Maze Generation
